@@ -1,0 +1,5 @@
+pip==25.1.1
+setuptools==44.1.1
+requests==2.32.4
+beautifulsoup4==4.13.4
+typing_extensions==4.14.1
